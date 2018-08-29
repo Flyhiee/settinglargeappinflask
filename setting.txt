@@ -1,0 +1,6 @@
+use these command to run this program 
+
+export FLASK_APP=yourapplication
+export FLASK_ENV=DEVELOPMENT
+pip or pip3 install e .
+flask run 
